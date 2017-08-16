@@ -14,5 +14,11 @@
     "url": "github.com/mtxset/oracle1"
   },
   "author": "mtxset",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.1"
+  },
+  "dependencies": {
+    "typescript-rest": "^1.1.1"
+  }
 }
